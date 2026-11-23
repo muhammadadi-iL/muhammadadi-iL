@@ -2,11 +2,9 @@
 
 # Hi there, I'm Muhammad Adil 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&height=45&lines=Senior+Backend+Developer;PHP+%7C+Laravel+%7C+React+%7C+Vue;Payment+flows+%26+order+lifecycles;Building+scalable+APIs+%26+SaaS" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Senior+Backend+Developer;PHP+%7C+Laravel+%7C+React+%7C+Vue;Building+Scalable+Applications;Payment+flows+%26+APIs)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=muhammadadi-iL&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadadi-iL&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -20,17 +18,12 @@ I've shipped backends for **marketplaces, booking systems, e-commerce, healthcar
 
 Beyond the backend I work with **React, Vue, Livewire, and Next.js**, and wire up real-time and cloud pieces — **Pusher, Firebase, Redis, queues, and Docker** — so systems stay fast under load.
 
-<br>
-
 💡 **Passionate About:**
-
 - ✔ Building **highly scalable web applications**
 - ✔ Architecting **RESTful APIs & multi-role platforms**
 - ✔ Crafting **secure authentication, RBAC & payment systems**
 - ✔ Implementing **real-time experiences with WebSockets & Pusher**
 - ✔ Deploying & optimizing apps on **AWS, Vercel, VPS, and Docker**
-
-<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
@@ -95,24 +88,28 @@ Beyond the backend I work with **React, Vue, Livewire, and Next.js**, and wire u
 ## 🏆 Featured Work
 
 | Project | What it is | Stack |
-| --- | --- | --- |
-| [**Backend Portfolio**](https://muhammad-adil-portfolio.vercel.app) | Case studies for marketplaces, booking, payments & SaaS | Laravel · PHP · React · MySQL |
+| :---: | :--- | :--- |
+| [**Portfolio**](https://muhammad-adil-portfolio.vercel.app) | Case studies for marketplaces, booking, payments & SaaS | Laravel · PHP · React · MySQL |
 | **VALORA** | Agents draft paperwork; a person still approves | Laravel · OpenAI · PostgreSQL |
-| **Food Link / Msane / Waraq Oman** | Multi-merchant commerce & payment-led orders | Laravel · Stripe · MySQL |
+| **Food Link / Msane / Waraq** | Multi-merchant commerce & payment-led orders | Laravel · Stripe · MySQL |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadadi-iL&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadadi-iL&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/muhammadadi-iL">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadadi-iL&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/muhammadadi-iL">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadadi-iL&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadadi-iL&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=muhammadadi-iL&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
